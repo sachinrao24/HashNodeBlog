@@ -63,3 +63,10 @@ Here's a brief overview of the types of NoSQL databases, and where they can be u
     Some common use cases are for providing auto-complete/auto-suggestion features, log analysis in software applications and time-series data.
     
     Elasticsearch and Apache Solr are examples of search engine databases.
+    
+
+If you found this helpful, consider liking and sharing it, and subscribing to my newsletter. Feel free to leave your thoughts, questions and ponderings in the comments.
+
+You can also follow me for more data and ML-related content. I focus on demystifying ML jargon and encouraging newcomers in the field by explaining concepts as simply as possible.
+
+This is Sachin being succinct :)
