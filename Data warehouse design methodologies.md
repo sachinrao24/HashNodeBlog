@@ -62,5 +62,5 @@ In this article, I'm going to talk about 4 different design methodologies and in
 If you found this helpful, consider liking and sharing it, and subscribing to my newsletter. Feel free to leave your thoughts, questions and ponderings in the comments.
 
 You can also follow me for more data and ML-related content. I focus on demystifying technical jargon and encouraging newcomers in the field by explaining concepts as simply as possible.
-
+ 
 This is Sachin being succinct :)
