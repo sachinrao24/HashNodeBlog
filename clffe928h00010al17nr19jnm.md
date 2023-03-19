@@ -5,6 +5,7 @@ seoDescription: "The only article you need to learn RegEx in depth and gain a de
 datePublished: Sun Mar 19 2023 12:48:31 GMT+0000 (Coordinated Universal Time)
 cuid: clffe928h00010al17nr19jnm
 slug: regex-a-comprehensive-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679230136796/aa377b34-54d9-4a5a-a168-73b01b5e9012.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679230039186/1e3391f7-5f42-4e8e-a461-13ca476dcbd3.png
 tags: search, fundamentals, regex, programming-ciovqvfcb008mb253jrczo9ye, natural-language-processing
 
