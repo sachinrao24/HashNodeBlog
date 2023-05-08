@@ -25,7 +25,7 @@ Mojo was developed by [Modular](https://www.modular.com/), as a superset of Pyth
 
 ## Origin of Mojo
 
-All good movie characters have a backstory. Mojo's backstory begins with Jeremy Howard, the founder of [***fast.ai***](https://www.fast.ai/). Years ago, when Jeremy first met Chris Lattner, he expressed his disappointment with the existing languages because of their poor performance. Jeremy wanted to be able to write performant, flexible and hardcore code, which is also concise, readable and understandable. To this, Chris replied, "Don't worry Jeremy. One day, we're going to fix this."
+All protagonists have a backstory. Mojo's backstory begins with Jeremy Howard, the founder of [***fast.ai***](https://www.fast.ai/). Years ago, when Jeremy first met Chris Lattner, he expressed his disappointment with the existing languages because of their poor performance. Jeremy wanted to be able to write performant, flexible and hardcore code, which is also concise, readable and understandable. To this, Chris replied, "Don't worry Jeremy. One day, we're going to fix this."
 
 If you don't already know, Chris Lattner is the founder of Modular, creator of ***Swift*** (the language whose very name depicts its impeccable performance), and the ***LLVM*** compiler toolchain, which is a library that is used to produce intermediate or machine code. With those kinds of credentials, who better to fix Python's woes?
 
